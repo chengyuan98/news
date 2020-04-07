@@ -72,7 +72,6 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/ncid262.md#1">美术长廊</a></p>
 </details>
 <p><details><summary>教育园地</summary></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/ncid2380.md#1">学生园地</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/ncid186.md#1">故事点播</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/ncid185.md#1">走进校园</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/ncid184.md#1">学习园地</a></p>
