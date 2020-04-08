@@ -106,59 +106,6 @@
 <p><a target="_blank" href="https://github.com/ulskhc2002/ntdtv/blob/master/gb/editor-pickup_1.md#1">编辑推荐</a></p>
 </details>
 
-<h2><p><a target="_blank" href="https://github.com/ulskhc2002/ntdtv/blob/master/gb/prog204.md#1">新闻专题</a></p></h2>
-
-<p><details><summary><a target="_blank" href="https://github.com/ulskhc2002/ntdtv/blob/master/gb/prog1647_1.md#1">共产党百年真相</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf1176114.md#1">破坏文化</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf1176115.md#1">窜改历史</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf1176118.md#1">制造贫困</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf1176106.md#1">杀人历史</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf1176107.md#1">党魁画皮</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf1176111.md#1">迫害精英</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf1176117.md#1">卖国恶行</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/ntdtv/blob/master/gb/prog1704_1.md#1">百年红祸</a></p>
-</details>
-<details><summary><a target="_blank" href="https://github.com/ulskhc2002/ntdtv/blob/master/gb/prog447_1.md#1">揭中共活摘器官</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf5877.md#1">事件报导</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf5878.md#1">各界反响</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf5881.md#1">遭遇记录</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf5882.md#1">恶人名录</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf5883.md#1">最新活动</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf5947.md#1">国际调查</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf5948.md#1">贩尸黑幕</a></p>
-</details>
-<p><details><summary><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf5790.md#1">关注法轮功真相</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf5792.md#1">中共造假</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf5562.md#1">伪火真相</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf4378.md#1">常见问题</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf4386.md#1">社会支持</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf6119.md#1">各国褒奖</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf5735.md#1">两岸对比</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf6120.md#1">民众声援</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf3180.md#1">海外弘传</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf1188594.md#1">难忘记忆</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf5410.md#1">万人上访</a></p>
-<p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf4389.md#1">真相特辑</a></p>
-</details>
-<p><details><summary><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/README.md#%E6%98%8E%E6%85%A7%E6%9C%9F%E5%88%8A">在线看明慧期刊</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
-<details><summary>明慧期刊</summary>
-<br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/zhongguo.md">明慧周报</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/cangsheng.md">天地苍生</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/hongfu.md">天赐洪福</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/huabao.md">明慧画报</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/mingbai.md">《明白》</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/zhenxiang.md">《真相》</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/huisheng.md">《慧声》</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/xiwang.md">《希望》</a></p>
-</details>
-<details><summary>明慧特刊</summary>
-<br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/pages/wfygdzz.md">无法掩盖的罪证</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/pages/425.md">话说当年四二五</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/pages/falsefire.md">天安门世纪骗局</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/pages/1400zx.md">1400例谎言背后</a></p>
-</details>
-</details>
-
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
 <h2><p><a target="_blank" href="https://git.io/fgp">翻墙软件/通道</p></h2>
 </details>
