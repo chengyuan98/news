@@ -23,7 +23,5 @@
 <p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/um.apk">无界浏览（安卓版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/iPPOTV.zip">爱博电视（电脑版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/SzzdOgate.apk">神州正道（安卓版）</a></p>
-<p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/szzdogate.rar">神州正道（网页版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/SzzdOgateTV.apk">神州正道（电视机顶盒版）</a></p>
-<p><a target="_blank" href="https://rawcdn.githack.com/ulskhc2002/oo/master/wm.html">网门网页动态版</a></p>
 <p><a target="_blank" href="https://github.com/odoor2/oo/blob/master/README.md">网门软件下载</a></p>
