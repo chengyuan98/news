@@ -1,4 +1,3 @@
-<div align="center">
 
 <h3><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nf1351518.md#1">大纪元新闻首页</a></h3>
 <p><a target="_blank" href="https://github.com/ulskhc2002/djy/blob/master/gb/nsc413.md#1">大纪元大陆时事</a></p>
