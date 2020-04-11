@@ -20,7 +20,6 @@
 &nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/zhenxiang.md">《真相》</a></p>
 <p><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/huisheng.md">《慧声》</a>
 &nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/xiwang.md">《希望》</a></p>
-</details>
 
 <h3><a target="_blank" href="https://github.com/chengyuan98/software/blob/master/README.md">翻墙软件（电脑版）</a></h3>
 <p><a href="https://cdn.jsdelivr.net/gh/gwy252/www/szzd/fgma.apk">自由门（安卓版）</a></p>
