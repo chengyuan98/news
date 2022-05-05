@@ -9,7 +9,7 @@
 <p><a target="_blank" href="https://github.com/gwy252/ntdtv/blob/master/gb/prog202_1.md#1">新唐人国际新闻</a></p>
 <p><a target="_blank" href="https://github.com/gwy252/ntdtv/blob/master/gb/prog207_1.md#1">新唐人时事评论</a></p>
 
-<h3><a target="_blank" href="https://a1.gddrry.gq/ccc/hao/585888">动态网新闻入口</a></h3>
+<h3><a target="_blank" href="https://3e2ju3.dfa3.tk/32654/u44774p">动态网新闻入口</a></h3>
 
 <p><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/zhongguo.md">明慧周报</a>
 &nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/cangsheng.md">天地苍生</a></p>
@@ -25,4 +25,4 @@
 <p><a href="https://cdn.jsdelivr.net/gh/gwy252/www/szzd/um.apk">无界浏览（安卓版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/gwy252/www/szzd/SzzdOgate.apk">神州正道（安卓版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/gwy252/www/szzd/SzzdOgateTV.apk">神州正道（电视机顶盒版）</a></p>
-<p><a target="_blank" href="https://github.com/odoor2/oo/blob/master/README.md">网门软件下载</a></p>
+
