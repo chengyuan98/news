@@ -26,5 +26,4 @@
 <p><a href="https://cdn.jsdelivr.net/gh/gwy252/www/szzd/SzzdOgate.apk">神州正道（安卓版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/gwy252/www/szzd/SzzdOgateTV.apk">神州正道（电视机顶盒版）</a></p></p>
 
-
 <h4><a target="_blank" href="https://www.epochtimes.ru/">The Epoch Times. Наш принцип — Истина и Традиции ...</a></h4>
