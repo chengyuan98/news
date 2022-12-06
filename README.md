@@ -9,7 +9,7 @@
 <p><a target="_blank" href="https://github.com/tui590285/ntdtv/blob/master/gb/prog202_1.md#1">新唐人国际新闻</a></p>
 <p><a target="_blank" href="https://github.com/tui590285/ntdtv/blob/master/gb/prog207_1.md#1">新唐人时事评论</a></p>
 
-<h3><a target="_blank" href="dongtaiwang.com/loc/phome.php">动态网新闻入口</a></h3>
+<h3><a target="_blank" href="">动态网新闻入口</a></h3>
 
 <p><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/zhongguo.md">明慧周报</a>
 &nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/cangsheng.md">天地苍生</a></p>
