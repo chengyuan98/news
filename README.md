@@ -11,7 +11,7 @@
 
 <h3><a target="_blank" href="http://114.45.180.82/?jbloSXCK=2ObWsw_8mj&-3-RwN8b8D=fv&Sn7vIfR98ip=KlD42YLs1l&aOIWmnPWM=aIKcn74&cz">动态网新闻入口</a></h3>
 
-<p><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/zhongguo.md">明慧周报</a>
+<p><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/pages/special.md">明慧特刊</a>
 &nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/cangsheng.md">天地苍生</a></p>
 <p><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/hongfu.md">天赐洪福</a>
 &nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/huabao.md">明慧画报</a></p>
