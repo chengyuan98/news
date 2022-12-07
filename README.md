@@ -18,10 +18,8 @@
 <p><a target="_blank" href="https://a1.zhujicn2.com/gfw-breaker/mh-qikan/blob/master/indexes/huisheng.md">《慧声》</a>
 &nbsp;&nbsp;<a target="_blank" href="https://a1.zhujicn2.com/gfw-breaker/mh-qikan/blob/master/indexes/xiwang.md">《希望》</a></p>
 
-<h3><a target="_blank" href="https://github.com/chengyuan98/software/blob/master/README.md">翻墙软件（电脑版）</a></h3>
-<p><a href="https://cdn.jsdelivr.net/gh/tui590285/www/szzd/fgma.apk">自由门（安卓版）</a></p>
-<p><a href="https://cdn.jsdelivr.net/gh/tui590285/www/szzd/um.apk">无界浏览（安卓版）</a></p>
-<p><a href="https://cdn.jsdelivr.net/gh/tui590285/www/szzd/SzzdOgate.apk">神州正道（安卓版）</a></p>
-<p><a href="https://cdn.jsdelivr.net/gh/tui590285/www/szzd/SzzdOgateTV.apk">神州正道（电视机顶盒版）</a></p>
+<h3><a target="_blank" href="https://github.com/chengyuan98/software/blob/master/README.md">翻墙软件（Windows电脑版）</a></h3>
+
+<h3><a target="_blank" href="https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88">翻墙软件（安卓手机版）</a></h3>
 
 <h4><a target="_blank" href="https://www.epochtimes.ru/">The Epoch Times. Наш принцип — Истина и Традиции ...</a></h4>
