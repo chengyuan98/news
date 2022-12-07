@@ -9,8 +9,8 @@
 <p><a target="_blank" href="https://github.com/tui590285/ntdtv/blob/master/gb/prog202_1.md#1">新唐人国际新闻</a></p>
 <p><a target="_blank" href="https://github.com/tui590285/ntdtv/blob/master/gb/prog207_1.md#1">新唐人时事评论</a></p>
 
-<h3><p><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/pages/special.md">明慧特刊</a>
-&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/cangsheng.md">天地苍生</a></p></h3>
+<h3><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/pages/special.md">明慧特刊</a>
+&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/cangsheng.md">天地苍生</a></h3>
 <p><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/hongfu.md">天赐洪福</a>
 &nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/huabao.md">明慧画报</a></p>
 <p><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/mingbai.md">《明白》</a>
