@@ -21,5 +21,3 @@
 <h3><a target="_blank" href="https://github.com/chengyuan98/software/blob/master/README.md">翻墙软件（Windows电脑版）</a></h3>
 
 <h3><a target="_blank" href="https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88">翻墙软件（安卓手机版）</a></h3>
-
-<h4><a target="_blank" href="https://www.epochtimes.ru/">The Epoch Times. Наш принцип — Истина и Традиции ...</a></h4>
