@@ -10,9 +10,9 @@
 <p><a target="_blank" href="https://github.com/1992513/ntdtv/blob/master/gb/prog207_1.md#1">新唐人时事评论</a></p>
 
 <h3><a target="_blank" href="https://github.com/1992513/qikan/blob/master/category.aspx/category/zhuanti/page_1.md#1">明慧特刊</a>
-&nbsp;&nbsp;<a target="_blank" href="https://github.com/1992513/qikan/blob/master/display.aspx/qikan_type_id/5139/page_1.md#1">天地苍生</a></h3>
-<p><a target="_blank" href="https://github.com/1992513/qikan/blob/master/display.aspx/qikan_type_id/11182/page_1.md#1">祝你平安</a>
-&nbsp;&nbsp;<a target="_blank" href="https://github.com/1992513/qikan/blob/master/display.aspx/qikan_type_id/5178/page_1.md#1">明慧周报</a></p>
+&nbsp;&nbsp;<a target="_blank" href="https://github.com/1992513/qikan/blob/master/display.aspx/qikan_type_id/5139/page_1.md#1">《天地苍生》</a></h3>
+<p><a target="_blank" href="https://github.com/1992513/qikan/blob/master/display.aspx/qikan_type_id/11182/page_1.md#1">《祝你平安》</a>
+&nbsp;&nbsp;<a target="_blank" href="https://github.com/1992513/qikan/blob/master/display.aspx/qikan_type_id/5178/page_1.md#1">《明慧周报》</a></p>
 <p><a target="_blank" href="https://github.com/1992513/qikan/blob/master/display.aspx/qikan_type_id/7500/page_1.md#1">《金种子》</a>
 &nbsp;&nbsp;<a target="_blank" href="https://github.com/1992513/qikan/blob/master/display.aspx/qikan_type_id/5240/page_1.md#1">《真相》</a></p>
 <p><a target="_blank" href="https://github.com/1992513/qikan/blob/master/display.aspx/qikan_type_id/5638/page_1.md#1">《慧声》</a>
